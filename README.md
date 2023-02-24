@@ -1,2 +1,4 @@
-# Luria
-The kinetic theory of mutation rates
+# The kinetic theory of mutation rates
+Abstract: The Luria-Delbrück mutation model is a cornerstone of evolution theory and has been mathematically formulated in a number of ways. In this paper we illustrate how this model of mutation rates can be derived by means of classical statistical mechanics tools, in particular by modeling the phenomenon resorting to methodologies borrowed from classical kinetic theory of rarefied gases.  The aim is to construct a linear kinetic model that can reproduce the Luria-Delbrück distribution starting from the elementary interactions that qualitatively and quantitatively describe the variation of mutated cells.  The kinetic description is easily adaptable to different situations and makes it possible to clearly identify the differences between the elementary variations leading to the formulations of Luria-Delbrück, Lea-Coulson, and Kendall, respectively. The kinetic approach additionally emphasizes basic principles which not only help to unify existing results but also allow for useful extensions.
+
+The present repository contains the Matlab codes used in the manuscript "The kinetic theory of mutation rates" by L. Pareschi and G. Toscani, Axioms, 2023
